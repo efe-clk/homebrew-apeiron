@@ -1,8 +1,8 @@
 class Apeiron < Formula
   desc "Backups, sync, versions and archives in one engine"
   homepage "https://github.com/efe-clk/apeiron"
-  url "https://github.com/efe-clk/apeiron/archive/refs/tags/v0.11.0.tar.gz"
-  sha256 "b678eac9625d06f3f0915fad8545d31d02592e7254b7384dfaa9f356937a5738"
+  url "https://github.com/efe-clk/apeiron/archive/refs/tags/v0.12.0.tar.gz"
+  sha256 "91d68b3acaeaa7e789365137a6275bc87253fbf15d916db5f46d19a795fc981e"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on "cmake" => :build
